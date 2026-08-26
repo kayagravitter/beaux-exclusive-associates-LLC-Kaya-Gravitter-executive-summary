@@ -1,3 +1,15 @@
+# Mutual Non-Disclosure Agreement (mNDA)
+**Proprietor:** Beaux Exclusive Associates LLC  
+**Asset Frameworks:** KG Core Analytics & The Dark Matter Imager Configuration  
+
+---
+
+### ⚖️ REGULATORY BRIEF FOR EVALUATING PARTNERS
+*Notice: This blank template documents the formal legal parameters required before accessing the private repositories, raw 32-bit register code, or physical laboratory workspace logs of Beaux Exclusive Associates LLC.*
+
+---
+
+```text
 ================================================================================
                     MUTUAL NON-DISCLOSURE AGREEMENT (NDA)
 ================================================================================
@@ -34,9 +46,11 @@ accordance with the laws of the jurisdiction of the corporate filing.
 
 IN WITNESS WHEREOF, the parties have executed this Agreement as of the date below.
 
-Beaux Exclusive Associates LLC:                              Evaluating Party:
-Signed: __________________________                           Signed: __________________________
-Name: Kaya Gravitter                                         Name: ____________________________
-Title: Founder & Owner                                       Title: ___________________________
-Date: ____________________________                           Date: ____________________________
+Beaux Exclusive Associates LLC:            Evaluating Party:
+
+Signed: __________________________         Signed: __________________________
+Name: Kaya Gravitter                       Name: ____________________________
+Title: Founder & Owner                     Title: ___________________________
+Date: ____________________________         Date: ____________________________
 ================================================================================
+```
