@@ -1,29 +1,29 @@
 ================================================================================
-                    BEAUX EXCLUSIVE ASSOCIATES LLC
-                      CONFIDENTIAL INVESTOR MEMO
+                           BEAUX EXCLUSIVE ASSOCIATES LLC                       
+                             CONFIDENTIAL INVESTOR MEMO                         
 ================================================================================
 ROUND TYPE: Seed / Capital Raise            TARGET INVESTMENT ASK: $1,000,000
-STRUCTURE: Post-Money SAFE                  PROPOSED VALUATION CAP: $8,000,000
+STRUCTURE: Post-Money SAFE                  PROPOSED VALUATION CAP: $12,000,000
 ================================================================================
 
 1. VENTURE & MISSION OVERVIEW
 Beaux Exclusive Associates LLC is a proprietary deep-tech company specialized 
 in advanced low-noise tracking instrumentation, aerospace sensor payloads, and 
-non-local spatial data processing filters. 
+non-local spatial data processing frameworks. 
 
 Our core technology platform combines a patent-pending Orbital Space-Grade Dark 
-Imager with the proprietary KG Core Analytics engine. The system compresses 
-heavy, cost-prohibitive laboratory quantum-sensing infrastructures into a 
-highly portable, 16.50 kg deployment profile. By implementing multi-layered 
-noise-cancellation matrices, the architecture successfully isolates and maps 
-sub-microvolt spatial field perturbations from background electronic static.
+Imager with the proprietary embedded KG Core Analytics engine. The system compresses 
+heavy, cost-prohibitive quantum-sensing infrastructures into a highly portable, 
+16.50 kg field deployment profile. By implementing multi-layered noise-cancellation 
+matrices, the architecture successfully isolates and maps sub-microvolt spatial field 
+perturbations directly from background electronic static.
 
 2. FOUNDATIONAL CREDIBILITY & DEFENSIVE PRIOR ART
-* PUBLIC DOMAIN SHIELD: Foundational high-level conceptual frameworks and spatial
-  boundary constraint paradigms were established across 2024/2025. Priority is
+• PUBLIC DOMAIN SHIELD: Foundational high-level conceptual frameworks and spatial 
+  boundary constraint paradigms were established across 2024/2025. Priority is 
   formally archived on the Open Science Framework (OSF) Public Registry under 
   Project Node Identifier: kbfuz (Direct URL: https://osf.io).
-* PROPRIETARY TECH VAULT: All functional real-time 16x16 data acquisition (DAQ) 
+• PROPRIETARY TECH VAULT: All functional real-time 16x16 data acquisition (DAQ) 
   processing algorithms, pinout architectures, and source files are strictly 
   restricted to isolated, private-access enterprise code vaults.
 
@@ -32,34 +32,58 @@ A $1,000,000 seed-stage capital injection will be deployed directly across
 four structured core operational pillars to maximize engineering velocity and 
 enterprise equity valuation:
 
-*   A. TEAM EXPANSION & STRUCTURAL OPERATIONS [$420,000]
-    - Funding a full-time executive business administrator to lead commercial 
-      logistics, compliance routing, and strategic partner coordination.
-    - Retaining two senior digital signal processing (DSP) / systems engineers 
-      to scale structural algorithm compilation.
-      
-*   B. LABORATORY CLEANROOM & HARDWARE PIPELINE [$280,000]
-    - Transitioning from an apartment-scale bench workspace into a secure, 
-      dedicated laboratory testing facility.
-    - Sourcing high-purity synthetic diamond substrate arrays, precision 
-      modulators, and ultra-low noise reference voltage hardware.
-      
-*   C. ENCRYPTED CLOUD CORE API ENVIRONMENT [$180,000]
-    - Deploying high-throughput, military-grade cloud execution environments 
-      to run KG Core Analytics as an online SaaS processing interface.
-    - Providing secure streaming infrastructure for external corporate pilots.
-    
-*   D. PATENT DEFENSE & REVENUE RUNWAY AUDITS [$120,000]
-    - Retaining specialized intellectual property counsel for global utility 
-      patent filings and cross-border commercial protections.
-    - Securing operational reserves, insurance, and aerospace dual-use compliance.
+• A. TEAM EXPANSION & STRUCTURAL OPERATIONS ($420,000)
+  - Funding a full-time executive business administrator to lead commercial 
+    logistics, regulatory compliance, and strategic partner coordination.
+  - Retaining two senior digital signal processing (DSP) / system engineers 
+    to scale structural algorithm compilation.
+
+• B. LABORATORY CLEANROOM & HARDWARE PIPELINE ($280,000)
+  - Transitioning from an apartment-scale bench workspace into a secure, 
+    dedicated laboratory testing facility.
+  - Sourcing high-purity synthetic diamond substrate arrays, precision 
+    modulators, and ultra-low noise reference voltage hardware.
+
+• C. ENCRYPTED CLOUD CORE API ENVIRONMENT ($180,000)
+  - Deploying high-throughput, military-grade cloud execution environments 
+    to run KG Core Analytics as an online SaaS processing interface.
+  - Providing secure streaming infrastructure for external corporate pilots.
+
+• D. PATENT DEFENSE & REVENUE RUNWAY AUDITS ($120,000)
+  - Retaining specialized intellectual property counsel for global utility 
+    patent filings and cross-border commercial protections.
+  - Securing operational reserves, insurance, and aerospace dual-use compliance.
 
 4. 5-YEAR REVENUE GENERATION TARGET VERTICALS
-* PHASE 1 (Immediate): Leverage validated bench telemetry to capture non-dilutive 
+• PHASE 1 (Immediate): Leverage validated bench telemetry to capture non-dilutive 
   capital and federal R&D grants (e.g., SBIR/STTR space-tech program entries).
-* PHASE 2 (Mid-Term): Monetize the KG Core Analytics platform via high-margin 
+• PHASE 2 (Mid-Term): Monetize the KG Core Analytics platform via high-margin 
   SaaS data API seat licenses sold directly to aerospace and defense primes.
-* PHASE 3 (Long-Term): Direct contract manufacture and deployment of orbital 
+• PHASE 3 (Long-Term): Direct contract manufacture and deployment of orbital 
   hardware payloads and calibrated physical imager devices ($25k-$75k+ per unit).
-================================================================================
 
+5. SECURITIES COMPLIANCE & INVESTOR ROUTING PROTOCOLS
+Beaux Exclusive Associates LLC handles all investment transactions through strict 
+regulatory compliance frameworks to protect founder equity and institutional alignment.
+
+• REGULATORY COMPLIANCE GATE: This offering is structured exclusively under SEC 
+  Regulation D Exemptions. General public solicitation is strictly prohibited. 
+  Financial conversations, term adjustments, and pitch deck access are restricted 
+  to Verified Accredited Investors under formal onboarding procedures.
+• FOUNDER CONTROL SAFEGUARDS: The $1,000,000 seed-stage raise utilizes a 
+  standardized Post-Money Simple Agreement for Future Equity (SAFE). This structure 
+  ensures that founder voting rights, core corporate governance, and operational 
+  execution metrics remain 100% centralized under the parent entity management, 
+  preventing predatory dilution.
+• MULTICOMPONENT SCALING PROJECTION: While the initial $12,000,000 valuation cap 
+  anchors our Terrestrial Bench Validation phase, Beaux Exclusive Associates LLC 
+  maintains a multi-tier capitalization model. Upon successful completion of Phase 1 
+  milestone metrics (32-bit hardware DAQ stream synchronization), subsequent funding 
+  windows will leverage a calculated 2x-3x step-up multiplier to match the asset 
+  scale of our Orbital Payload integration.
+
+Notice: Forward-looking revenue projections and milestone target metrics are 
+estimates designed for strategic planning. Financial transactions will execute 
+exclusively through authorized corporate banking channels and legal counsel. 
+All Rights Reserved.
+================================================================================
